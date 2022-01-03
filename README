@@ -1,0 +1,18 @@
+With this tool you can download many of the tools used in the MRROBOT series,
+in summary the tools are not directly made from the series, they 
+are real life pentesting tools but they have almost the same functions 
+as the series, as always be careful how you use tools.
+-----------------------------------------------------------------------------
+Con esta herramienta puedes descargar muchas de las herramientas utilizadas en la serie de MRROBOT, en resumen las herramientas no son directamente
+hechas de la serie, son herramientas de pentesting de la vida real pero 
+que tienen funciones casi iguales a la de la serie, como siempre tengan 
+cuidado con el uso que le dan a las herramientas
+----------------------------------------------------------------------------
+Com esta ferramenta você pode baixar muitas das ferramentas usadas na série
+MRROBOT, em resumo as ferramentas não são feitas diretamente da série,
+elas são ferramentas de pentesting da vida real, mas têm quase as mesmas
+funções da série, sempre tome cuidado como você usa ferramentas.
+---------------------------------------------------------------------------
+commands
+sudo bash install.sh
+sudo python3 MRROBOT.py
